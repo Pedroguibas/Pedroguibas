@@ -4,7 +4,7 @@
 - 🌱 Estou estuando principalmente front-end
 - 😄 Pronouns: Qual quer um :D
 
-<div >
+<div ><br>
   <a href="https://github.com/Pedroguibas">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Pedroguibas&icons=true&theme=cobalt" />
   </a>
