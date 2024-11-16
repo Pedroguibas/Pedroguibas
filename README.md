@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente não trabalho na área mas prentendo ingressar em um estágio.
 - 🌱 Estou estuando principalmente front-end
-- 😄 Pronouns: Qual quer um :D
+- 😄 Pronouns: Qualquer um :D
 
 <div ><br>
   <a href="https://github.com/Pedroguibas">
