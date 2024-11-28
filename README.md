@@ -19,4 +19,12 @@
   <img alt="C language" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />  
 </div>
 
-##
+## Links
+
+
+<a href="https://www.linkedin.com/in/pedro-bastos-4275b2243/" style="display: flex; justify-content: around;">
+  <img alt="Linked-in link" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://portfolio-beta-topaz-94.vercel.app/">
+  <img alt="Portfólio link" height="55" width="65" src="https://cdn-icons-png.freepik.com/512/5338/5338322.png">
+</a>
