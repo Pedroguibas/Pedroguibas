@@ -32,5 +32,5 @@
   <img alt="Linked-in link" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://portfolio-beta-topaz-94.vercel.app/">
-  <img alt="Portfólio link" height="55" width="65" src="https://cdn-icons-png.freepik.com/512/5338/5338322.png">
+  <img alt="Portfólio link" style="height: 55;" src="https://portfolio-beta-topaz-94.vercel.app/img/brand.png">
 </a>
