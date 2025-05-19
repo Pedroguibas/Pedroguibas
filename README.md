@@ -1,7 +1,6 @@
 ## Olá! Me chamo Pedro Bastos!
 
-- 🔭 Atualmente não trabalho na área mas prentendo ingressar em um estágio.
-- 🌱 Estou desenvolvendo e aprimorando minhas habilidades de desenvolvimento de software.
+- 🔭 Buscando aprimorar minhas habilidades em desenvolvimento para alcançar meu objetivo de me tornar um desenvolvedor Full-Stack.
 
 <div ><br>
   <a href="https://github.com/Pedroguibas">
